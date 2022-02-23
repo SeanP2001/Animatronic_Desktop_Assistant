@@ -1,0 +1,146 @@
+{
+  "uuid": "d8ceb7ab373a218666757cfafbe9ed4e",
+  "path": "Offline/RobotSchematic",
+  "name": "RobotSchematic",
+  "content": "",
+  "created_at": "2021-04-15 14:18:46",
+  "updated_at": "2021-04-15 14:46:12",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "0336cfd4267597b23713ccb9bfa8a4c6",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ececebe837ab446d8a691057f2b68227": 1,
+        "98f06136ed35425181f3c3a9cdabf267": 1,
+        "60231f98fb59476bb6d2d042307ea774": 1,
+        "45b9f1208a3544c8850b124d3a3f0356": 1,
+        "5608e5afc7d743498678b62b5923523c": 3,
+        "da6bba129ffd4197a394277f50af9a2b": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Motor_Servo",
+          1,
+          "",
+          "M1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "",
+            "uuid": "45b9f1208a3544c8850b124d3a3f0356"
+          }
+        ],
+        [
+          "1602 LCD I2C SPI (PCF8574)",
+          1,
+          "1602 LCD I2C SPI",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "12d4b50633a647959730c92357046843",
+            "uuid": "98f06136ed35425181f3c3a9cdabf267"
+          }
+        ],
+        [
+          "- Button",
+          1,
+          "SMD-BUTTON",
+          "SW-1SWITCH",
+          {
+            "BOM_Supplier Part": "COM-08720",
+            "BOM_Supplier": "SparkFun",
+            "BOM_Manufacturer Part": "",
+            "puuid": "e67bc8a1676b472a8c9072bebba55248",
+            "uuid": "5608e5afc7d743498678b62b5923523c"
+          }
+        ],
+        [
+          "Start Button",
+          1,
+          "SMD-BUTTON",
+          "SW-2SWITCH",
+          {
+            "BOM_Supplier Part": "COM-08720",
+            "BOM_Supplier": "SparkFun",
+            "BOM_Manufacturer Part": "",
+            "puuid": "e67bc8a1676b472a8c9072bebba55248",
+            "uuid": "5608e5afc7d743498678b62b5923523c"
+          }
+        ],
+        [
+          "+ Button",
+          1,
+          "SMD-BUTTON",
+          "SW-3SWITCH",
+          {
+            "BOM_Supplier Part": "COM-08720",
+            "BOM_Supplier": "SparkFun",
+            "BOM_Manufacturer Part": "",
+            "puuid": "e67bc8a1676b472a8c9072bebba55248",
+            "uuid": "5608e5afc7d743498678b62b5923523c"
+          }
+        ],
+        [
+          "OLED 128x32 I2c",
+          1,
+          "OLED 128X32",
+          "U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "9994cb74fdb544fbb0ced77d2218b94c",
+            "uuid": "60231f98fb59476bb6d2d042307ea774"
+          }
+        ],
+        [
+          "10k",
+          3,
+          "R603",
+          "R1,R2,R3",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "1511b5e02f6f4a20a15ab15489fb22ba",
+            "uuid": "da6bba129ffd4197a394277f50af9a2b"
+          }
+        ],
+        [
+          "ARDUINO UNO_R3",
+          1,
+          "UNO_R3",
+          "P1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "8f9d41f84823451180938dec38867755",
+            "uuid": "ececebe837ab446d8a691057f2b68227"
+          }
+        ]
+      ],
+      "updateTime": 1618494372,
+      "createTime": 1618494193,
+      "histories": [],
+      "created_at": "2021-04-15 14:43:13",
+      "updated_at": "2021-04-15 14:46:12"
+    }
+  ],
+  "sort": [],
+  "title": "RobotSchematic",
+  "foldername": "RobotSchematic",
+  "schfilename": "RobotSchematic.json",
+  "schfilemtime": 1618494372152
+}
