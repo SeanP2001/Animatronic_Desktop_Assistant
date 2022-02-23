@@ -29,6 +29,7 @@ I set myself the goal of creating a friendly robot that waves at me when I have 
 <p align="center">
  <img src="./Schematic/RobotSchematic.png"/>
 </p>
+
 ## Completed Prototype
 
 <p align="center">
